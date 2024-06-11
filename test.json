@@ -1,0 +1,6 @@
+{
+    "gitlab_url": "https://gitlab.com/your_username/your_repo.git",
+    "file_path": "path/to/your/file.txt",
+    "access_token": "your_gitlab_access_token"  // Include this only if the repository is private
+  }
+  
